@@ -1,0 +1,10 @@
+bin/
+obj/
+artifacts/
+*.user
+reference-contact-sheet.png
+__pycache__/
+
+/release/
+/*.webp
+/reference-contact-sheet.png

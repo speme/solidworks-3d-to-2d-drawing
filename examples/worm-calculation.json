@@ -1,0 +1,14 @@
+{
+  "Family": "worm_pair",
+  "ModuleSystem": "axial",
+  "StandardUnshiftedFullDepth": true,
+  "Measurements": {
+    "AxialModuleMm": 3,
+    "WormStarts": 2,
+    "WheelTeeth": 30,
+    "WormPitchDiameterMm": 44,
+    "ShaftAngleDeg": 90,
+    "NormalPressureAngleDeg": 20
+  },
+  "Evidence": {"AxialModuleMm": "SDP/SI Table 9-6 example; not a user drawing", "WormStarts": "example: double start", "WormPitchDiameterMm": "example: d1=44"}
+}

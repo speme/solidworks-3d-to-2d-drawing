@@ -1,0 +1,12 @@
+{
+  "SchemaVersion": "1.0",
+  "RequestId": "rack-example",
+  "Models": [{"Path": "C:\\Models\\rack.SLDPRT"}],
+  "Options": {
+    "Template": "C:\\Company\\Templates\\rack-a4.drwdot",
+    "OutputDirectory": "C:\\Drawings\\rack",
+    "RackParameters": {"Module": "5", "PressureAngle": "20", "PitchLineFromBack": "45"},
+    "ExportPdf": true,
+    "ExportDxf": true
+  }
+}

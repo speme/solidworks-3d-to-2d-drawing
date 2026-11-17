@@ -1,0 +1,18 @@
+{
+  "SchemaVersion": "1.0",
+  "RequestId": "gear-drawing",
+  "Models": [{ "Path": "D:\\models\\gear.SLDPRT" }],
+  "Options": {
+    "Template": "D:\\templates\\company-a3.drwdot",
+    "OutputDirectory": "D:\\drawings",
+    "OptimizeAnnotationLayout": true,
+    "AutoReviewPdf": true,
+    "GearParameters": {
+      "Module": "2",
+      "Teeth": "24",
+      "PressureAngle": "20",
+      "HelixAngle": "0",
+      "GearType": "external_spur"
+    }
+  }
+}

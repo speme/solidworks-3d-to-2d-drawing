@@ -1,0 +1,20 @@
+{
+  "Family": "spur_external",
+  "StandardUnshiftedFullDepth": false,
+  "Measurements": {
+    "Teeth": 24,
+    "PitchDiameterMm": 48,
+    "BaseDiameterMm": 45.1052457977236,
+    "CenterXmm": 0,
+    "CenterYmm": 0,
+    "DatumXmm": 10,
+    "DatumYmm": 0,
+    "FeatureXmm": 18.4775906502257,
+    "FeatureYmm": 7.6536686473018
+  },
+  "Evidence": {"PitchDiameterMm": "example: reference diameter, not OD", "BaseDiameterMm": "example: base circle", "FeatureXmm": "example: named first-tooth centerline point"},
+  "PhaseDatum": "Example: key centerline",
+  "ViewingDirection": "Example: +Z toward origin, plane X right/Y up",
+  "PositiveRotation": "CCW",
+  "StartFeature": "Example: tooth 1 centerline"
+}

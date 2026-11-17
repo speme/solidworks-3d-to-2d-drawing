@@ -1,0 +1,28 @@
+{
+  "SchemaVersion": "1.0",
+  "Name": "公司 A3 模板",
+  "Options": {
+    "Template": "D:/Templates/Company-A3.drwdot",
+    "SheetFormat": "D:/Templates/Company-A3.slddrt",
+    "FirstAngle": true,
+    "PaperWidthMm": 420,
+    "PaperHeightMm": 297,
+    "FixedScale": 0,
+    "LeftMarginMm": 25,
+    "RightMarginMm": 15,
+    "TopMarginMm": 15,
+    "TitleBlockHeightMm": 65,
+    "ViewGapMm": 25,
+    "SpacingMm": 8,
+    "Isometric": true,
+    "AutoOrient": true,
+    "CenterMarks": true,
+    "ExportDxf": true,
+    "DrawingProperties": {
+      "Company": "公司名称",
+      "DrawingNo": "{ModelName}",
+      "Configuration": "{Configuration}",
+      "DrawingDate": "{Date}"
+    }
+  }
+}

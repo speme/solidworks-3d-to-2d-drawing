@@ -1,0 +1,20 @@
+{
+  "SchemaVersion": "1.0",
+  "RequestId": "part-batch-001",
+  "TemplateProfile": "company-a3.json",
+  "StartSolidWorks": true,
+  "StopOnError": false,
+  "Models": [
+    { "Path": "D:/Models/Bracket.SLDPRT" },
+    { "Path": "D:/Models/Plate.SLDPRT", "Configuration": "Default" }
+  ],
+  "Options": {
+    "OutputDirectory": "D:/Drawings",
+    "AutoReviewPdf": false,
+    "ExportDxf": true,
+    "DrawingProperties": {
+      "DrawingNo": "{ModelName}",
+      "Designer": "张三"
+    }
+  }
+}
